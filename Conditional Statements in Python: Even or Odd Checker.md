@@ -20,6 +20,7 @@ Else, print "ODD".
 End the program.
 
 🧾 Program:
+
 ```
 a = int(input("Enter a number: "))
 
@@ -28,8 +29,9 @@ if a % 2 == 0:
 else:
     print("ODD")
 ```
-Output:
+
+Output :
 <img width="384" height="126" alt="Screenshot 2026-06-01 133929" src="https://github.com/user-attachments/assets/b1e4870b-2a43-4e33-b649-80cd8ac958e6" />
 
-Result
+Result :
 Thus, the Python program to check whether the given number is even or odd using if...else statements was executed successfully and the output was verified.

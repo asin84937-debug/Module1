@@ -31,6 +31,8 @@ else:
 ```
 
 Output :
+
+
 <img width="384" height="126" alt="Screenshot 2026-06-01 133929" src="https://github.com/user-attachments/assets/b1e4870b-2a43-4e33-b649-80cd8ac958e6" />
 
 Result :
